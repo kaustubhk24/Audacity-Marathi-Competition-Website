@@ -2,11 +2,11 @@
 
 ## Description
 
-This is a competition site made with Bootstrap.
+This is a pizza order site which is used to cart , purchase , track order functionality. It is built in ExpressJS.
 
 ## Demo
 
-Link ðŸ‘‰ To be added https://kaustubhk24.github.io/Audacity-Marathi-Competition-Website/.
+Link 👉 To be added.
 
 ## Screenshot
 
@@ -15,10 +15,15 @@ To be added.
 ## Installation
 
 Step 1
-ðŸ´ Fork this repo!
+🍴 Fork this repo!
 
 Step 2
-ðŸ‘¯ Clone this repository to your local machine.
+👯 Clone this repository to your local machine.
 
 Step 3
-HACK AWAY! ðŸ”¨ðŸ”¨ðŸ”¨
+HACK AWAY! 🔨🔨🔨
+
+## Copyright and License
+
+© Copyright TheEvent. All Rights Reserved
+Designed by BootstrapMade (https://bootstrapmade.com/) license.
