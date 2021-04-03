@@ -6,7 +6,7 @@ This is a pizza order site which is used to cart , purchase , track order functi
 
 ## Demo
 
-Link 👉 [a link](https://kaustubhk24.github.io/Audacity-Marathi-Competition-Website/)
+Link 👉 [Audacity-Marathi-Competition](https://kaustubhk24.github.io/Audacity-Marathi-Competition-Website/)
 
 ## Screenshot
 
