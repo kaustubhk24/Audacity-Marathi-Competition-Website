@@ -21,7 +21,7 @@ Step 2
 👯 Clone this repository to your local machine.
 
 Step 3
-HACK AWAY! 🔨🔨🔨
+Start Building ! 🔨🔨🔨
 
 ## Copyright and License
 
