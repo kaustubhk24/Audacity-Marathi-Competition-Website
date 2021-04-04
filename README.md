@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a pizza order site which is used to cart , purchase , track order functionality. It is built in ExpressJS.
+This is a competition event site made with bootstrap.
 
 ## Demo
 
