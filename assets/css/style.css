@@ -14,6 +14,14 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.progress-bar {
+  position: fixed;
+  background-color: #f82249;
+  height: 2px;
+  z-index: 1000;
+  border-radius: 0px 100px 20px 0px;
+  transition: 1s;
+}
 a {
   color: #f82249;
   text-decoration: none;
